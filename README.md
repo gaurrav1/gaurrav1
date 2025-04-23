@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Gaurav 👋 </h1>
 <p align="center">
   <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
+<h1 align="center">Hello, I'm Gaurav 👋 </h1>
 <p align="center">
   <b>CSE Student | Full Stack Developer </b>
 </p>
@@ -25,37 +25,26 @@
 ###  <h2 align="left">Tech stack</h2>
 
 ####  Languages
-![Java](https://img.icons8.com/fluency/48/java-coffee-cup-logo.png)
-![JavaScript](https://img.icons8.com/fluency/48/javascript.png)
+<a href="#"><img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" /></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/javascript.png" /></a>
 
 ####  Frameworks & Libraries
-![Spring Boot](https://img.icons8.com/color/48/spring-logo.png)
-![React](https://img.icons8.com/color/48/react-native.png)
+<a href="https://spring.io/projects/spring-boot/"><img src="https://img.icons8.com/color/48/spring-logo.png" /></a>
+<a href="https://react.dev/"><img src="https://img.icons8.com/color/48/react-native.png" /></a>
 
 ####  Tools
-![Git](https://img.icons8.com/color/48/git.png)
-![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
-![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
-![IntelliJ IDEA](https://img.icons8.com/fluency/48/intellij-idea.png)
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/git.png" /></a>
+<a href="https://www.postman.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" /></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://img.icons8.com/fluency/48/intellij-idea.png" /></a>
 
 ####  Databases
-![MySQL](https://img.icons8.com/color/48/mysql-logo.png)
-
----
-
-### <h2 align="left">GitHub Stats</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurrav1&show_icons=true&locale=en&layout=compact" alt="gaurrav1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurrav1&show_icons=true&locale=en" alt="gaurrav1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurrav1&" alt="gaurrav1" /></p>
+<a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/mysql-logo.png" /></a>
 
 ---
 
 ###  <h2 align="left">Let's Connect!</h2>
 
 <a href="https://www.linkedin.com/in/ngaurav113/" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
-<a href="https://instagram.com/this_is_gaurav_vasani" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
-
----
 
 > “Build systems that scale, think like an engineer, and always keep learning.” – Gaurav
