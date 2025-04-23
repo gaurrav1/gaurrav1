@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+  <img alt="Gaurav Vasani" height=300 width=450 src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif" />
 </p>
 <h1 align="center">Hello, I'm Gaurav 👋 </h1>
 <p align="center">
