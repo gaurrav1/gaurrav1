@@ -6,10 +6,14 @@
   <b>CSE Student | Full Stack Developer </b>
 </p>
 
-<p align="center">
-  🌱 Learning DSA & System Design<br/>
-  💻 Working with <strong>Spring Boot</strong> & <strong>React</strong><br/>
-  🚀 Passionate about building scalable web apps and backend systems
+<p align="left">
+  GET : https://127.0.0.1/gaurav <br /><br />
+  {} JSON : 200 OK <br />
+  {  <br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;"1" : "Learning DSA & System Design",  <br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;"2" : "Working with <strong>Spring Boot</strong> & <strong>React</strong>", <br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;"3" : "Passionate about building scalable web apps and backend systems" <br/>
+  }
 </p>
 
 
@@ -40,6 +44,7 @@
 
 ####  Databases
 <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/mysql-logo.png" /></a>
+<a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" height="46" width="46"/></a>
 
 ---
 
