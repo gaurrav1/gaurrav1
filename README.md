@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  GET : https://127.0.0.1/gaurav <br /><br />
+  GET : https://www.thisisgaurav.in/ <br /><br />
   {} JSON : 200 OK <br />
   {  <br/>
      &nbsp;&nbsp;&nbsp;&nbsp;"1" : "Learning DSA & System Design",  <br/>
