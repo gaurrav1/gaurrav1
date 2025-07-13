@@ -1,9 +1,9 @@
 <p align="center">
   <img alt="Gaurav Vasani" height=300 width=450 src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif" />
 </p>
-<h1 align="center">Hello, I'm Gaurav 👋 </h1>
+<h1 align="center">Gaurav is greeting you👋 </h1>
 <p align="center">
-  <b>CSE Student | Full Stack Developer </b>
+  <b>CSE Student | Curious to learn Computers, Mathematics and Universe</b>
 </p>
 
 <p align="left">
@@ -20,7 +20,7 @@
 ---
 
 ###  <h2 align="left">About Me</h2>
--  I'm a 3rd year Computer Science student who loves mixing code with a touch of philosophy.
+-  I'm a 4th year Computer Science student who loves mixing code with a touch of philosophy.
 -  Currently exploring clean backend architectures, frontend ecosystems, and deeper system design principles.
 -  Always looking to build, break, and rebuild things smarter than before.
 
